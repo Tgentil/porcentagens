@@ -36,7 +36,7 @@ A calculadora de porcentagens oferece as seguintes funcionalidades:
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você tiver alguma melhoria, correção de bugs ou novas funcionalidades para adicionar, sinta-se à vontade para enviar um pull request. Não estou conseguindo resolver o caso nº 5 de  `O valor valor X sobre o valor Y é quantos por cento?`
+Contribuições são bem-vindas! Se você tiver alguma melhoria, correção de bugs ou novas funcionalidades para adicionar, sinta-se à vontade para enviar um pull request. Não estou conseguindo resolver o caso nº 5 de  `O valor valor X sobre o valor Y é quantos por cento?`, ainda pretendo melhorar o design dessa calculadora.
 
 ## Agradecimentos
 
