@@ -11,18 +11,28 @@ body {
 	background-color: #ffffff;
 	padding: 20px;
 	border: 2px solid #000000;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
 	text-align: center;
+	margin-top: 0;
 }
 
 .case {
 	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 20px;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	background-color: #f9f9f9;
 }
 
 .case h3 {
 	margin-top: 0;
+	margin-bottom: 10px;
+	font-weight: normal;
 }
 
 .input-group {
@@ -34,13 +44,17 @@ h1 {
 input[type="number"] {
 	width: 100px;
 	padding: 5px;
+	border: 1px solid #dddddd;
+	border-radius: 3px;
 }
 
 button {
 	padding: 5px 10px;
+	margin: 5px;
 	background-color: #007bff;
 	color: #ffffff;
 	border: none;
+	border-radius: 3px;
 	cursor: pointer;
 }
 

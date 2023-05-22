@@ -66,3 +66,7 @@ function calculateCase9() {
 	var number1 = (number2 * 100) / (100 - percentage);
 	document.getElementById("case9-result").innerText = "Resultado: " + number1;
 }
+
+function goToCalculadoraAngular() {
+	window.location.href = "https://calculadora-angular-26fe7.web.app/";
+}
