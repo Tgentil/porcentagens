@@ -2,7 +2,7 @@ README.md
 
 # Calculadora de Porcentagens
 
-Este projeto é uma calculadora de porcentagens inspirada na calculadora de porcentagens do site [4Devs](https://www.4devs.com.br/calculadora_porcentagem). A calculadora permite realizar diversos cálculos relacionados a porcentagens, como calcular a porcentagem de um valor, determinar qual porcentagem um valor representa de outro, calcular o aumento percentual, calcular a diminuição percentual e muito mais, este projeto vai estar integrado com esse meu outro [repositorio](https://github.com/Tgentil/Calculadora-Angular), onde uma vez que o user clique no botão de porcentagem vai ser redirecionado para essa página.
+Este projeto é uma calculadora de porcentagens inspirada na calculadora do site [4Devs](https://www.4devs.com.br/calculadora_porcentagem). A calculadora permite realizar diversos cálculos relacionados a porcentagens, como calcular a porcentagem de um valor, determinar qual porcentagem um valor representa de outro, calcular o aumento percentual, calcular a diminuição percentual e muito mais, este projeto vai estar integrado com esse meu outro [repositorio](https://github.com/Tgentil/Calculadora-Angular), onde uma vez que o user clique no botão de porcentagem vai ser redirecionado para essa página.
 
 ## Demonstração
 
@@ -12,14 +12,14 @@ Uma demonstração da calculadora pode ser encontrada [aqui](https://tgentil.git
 
 A calculadora de porcentagens oferece as seguintes funcionalidades:
 
--   Calcular a porcentagem de um valor em relação a outro valor.
--   Determinar a porcentagem que um valor representa em relação a outro valor.
--   Calcular o aumento percentual entre dois valores.
--   Calcular a diminuição percentual entre dois valores.
--   Calcular o resultado após aumentar um valor em uma determinada porcentagem.
--   Calcular o resultado após diminuir um valor em uma determinada porcentagem.
--   Determinar o valor inicial após um aumento percentual.
--   Determinar o valor inicial após uma diminuição percentual.
+1   Calcular a porcentagem de um valor em relação a outro valor.
+2   Determinar a porcentagem que um valor representa em relação a outro valor.
+3   Calcular o aumento percentual entre dois valores.
+4   Calcular a diminuição percentual entre dois valores.
+5   Calcular o resultado após aumentar um valor em uma determinada porcentagem.
+6   Calcular o resultado após diminuir um valor em uma determinada porcentagem.
+7   Determinar o valor inicial após um aumento percentual.
+8   Determinar o valor inicial após uma diminuição percentual.
 
 ## Tecnologias utilizadas
 
@@ -44,7 +44,7 @@ Este projeto é inspirado e utiliza os casos de uso da calculadora de porcentage
 
 ---
 
-**Nota:** Esta calculadora de porcentagens foi desenvolvida como um projeto independente e para suprir meu problema da minha [calculadora](https://calculadora-angular-26fe7.web.app/) não conseguir calcular porcetagens. este repositorio não possui qualquer vínculo oficial com o site 4Devs.
+**Nota:** Esta calculadora de porcentagens foi desenvolvida como um projeto independente e para suprir meu problema da minha [calculadora](https://calculadora-angular-26fe7.web.app/) que é não conseguir calcular porcetagens. este repositorio não possui qualquer vínculo oficial com o site 4Devs.
 
 
 ## Autor
