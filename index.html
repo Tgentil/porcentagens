@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Calculadora de Porcentagens</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<h1>Calculadora de Porcentagens</h1>
+
+			<div class="case">
+				<h3>
+					Quanto é
+					<input type="number" id="case1-percentage" placeholder="x" />
+					% de
+					<input type="number" id="case1-number" placeholder="y" />
+					?
+					<button onclick="calculateCase1()">Calcular</button>
+				</h3>
+				<div class="input-group"></div>
+				<p id="case1-result"></p>
+			</div>
+
+			<div class="case">
+				<h3>
+					O valor
+					<input type="number" id="case2-number1" placeholder="x" />
+					é qual porcentagem de
+					<input type="number" id="case2-number2" placeholder="y" />
+					?
+					<button onclick="calculateCase2()">Calcular</button>
+				</h3>
+				<div class="input-group"></div>
+				<p id="case2-result"></p>
+			</div>
+
+			<div class="case">
+				<h3>
+					Um valor
+					<input type="number" id="case3-number1" placeholder="x" />
+					que AUMENTOU para
+					<input type="number" id="case3-number2" placeholder="y" />
+					, qual foi o aumento percentual?
+				</h3>
+				<div class="input-group">
+					<button onclick="calculateCase3()">Calcular</button>
+				</div>
+				<p id="case3-result"></p>
+			</div>
+
+			<div class="case">
+				<h3>
+					Um valor
+					<input type="number" id="case4-number1" placeholder="x" />
+					que DIMINUIU para
+					<input type="number" id="case4-number2" placeholder="y" />
+					, qual foi a diminuição percentual?
+				</h3>
+				<div class="input-group">
+					<button onclick="calculateCase4()">Calcular</button>
+				</div>
+				<p id="case4-result"></p>
+			</div>
+
+			<!-- <div class="case">
+				<h3>O valor x sobre o valor y é quantos por cento?</h3>
+				<div class="input-group">
+					<input type="number" id="case5-number1" placeholder="x" />
+					<input type="number" id="case5-number2" placeholder="y" />
+					<button onclick="calculateCase5()">Calcular</button>
+				</div>
+				<p id="case5-result"></p>
+			</div> -->
+
+			<div class="case">
+				<h3>
+					Tenho um valor
+					<input type="number" id="case6-number1" placeholder="x" />
+					e quero AUMENTAR
+					<input type="number" id="case6-percentage" placeholder="y" />
+					%, qual é o resultado?
+					<button onclick="calculateCase6()">Calcular</button>
+				</h3>
+				<div class="input-group"></div>
+				<p id="case6-result"></p>
+			</div>
+
+			<div class="case">
+				<h3>
+					Tenho um valor
+					<input type="number" id="case7-number1" placeholder="x" />
+					e quero DIMINUIR
+					<input type="number" id="case7-percentage" placeholder="y" />
+					%, qual é o resultado?
+					<button onclick="calculateCase7()">Calcular</button>
+				</h3>
+				<div class="input-group"></div>
+				<p id="case7-result"></p>
+			</div>
+
+			<div class="case">
+				<h3>
+					Tenho um valor inicial que AUMENTOU em
+					<input type="number" id="case8-percentage" placeholder="x" />
+					% e passou para
+					<input type="number" id="case8-number2" placeholder="y" />
+					. Qual é o valor inicial?
+				</h3>
+				<button onclick="calculateCase8()">Calcular</button>
+				<div class="input-group"></div>
+				<p id="case8-result"></p>
+			</div>
+
+			<div class="case">
+				<h3>
+					Tenho um valor inicial que DIMINUIU em
+					<input type="number" id="case9-percentage" placeholder="x" />
+					% e passou para
+					<input type="number" id="case9-number2" placeholder="y" />
+					. Qual é o valor inicial?
+				</h3>
+				<button onclick="calculateCase9()">Calcular</button>
+				<div class="input-group"></div>
+				<p id="case9-result"></p>
+			</div>
+		</div>
+
+		<script src="script.js"></script>
+	</body>
+</html>
