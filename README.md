@@ -1,6 +1,6 @@
-README.md
-
 # Calculadora de Porcentagens
+
+ [![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
 
 Este projeto é uma calculadora de porcentagens inspirada na calculadora do site [4Devs](https://www.4devs.com.br/calculadora_porcentagem). A calculadora permite realizar diversos cálculos relacionados a porcentagens, como calcular a porcentagem de um valor, determinar qual porcentagem um valor representa de outro, calcular o aumento percentual, calcular a diminuição percentual e muito mais, este projeto vai estar integrado com esse meu outro [repositorio](https://github.com/Tgentil/Calculadora-Angular), onde uma vez que o user clique no botão de porcentagem vai ser redirecionado para essa página.
 
